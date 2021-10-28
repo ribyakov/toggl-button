@@ -1,0 +1,6 @@
+{
+    "tracker.yandex.ru": {
+        "url": "*://tracker.yandex.ru/*",
+        "name": "yandextracker"
+      }
+}
