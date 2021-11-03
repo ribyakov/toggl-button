@@ -19,6 +19,7 @@ togglbutton.render(
     const wrapper = document.createElement('span');
     wrapper.style.verticalAlign = 'middle';
     wrapper.style.marginLeft = '1em';
+    wrapper.style.float = 'right';
     wrapper.appendChild(link);
 
     $('.b-table__col_role_key', $container).appendChild(wrapper);

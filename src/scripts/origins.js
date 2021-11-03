@@ -729,5 +729,9 @@ export default {
   'app.zenhub.com': {
     url: '*://app.zenhub.com/*',
     name: 'Zenhub'
+  },
+  'tracker.yandex.ru': {
+    url: '*://tracker.yandex.ru/*',
+    name: 'yandextracker'
   }
 };
